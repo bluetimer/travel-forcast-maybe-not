@@ -1,0 +1,12 @@
+.container{
+    display:flex;
+}
+.content{
+    background: green;
+    color:white;
+    border:10px groove green;
+    padding:10px;
+}
+.output{
+    
+}
