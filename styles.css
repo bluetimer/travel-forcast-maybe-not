@@ -1,11 +1,19 @@
+body{
+ font-family: 'Patrick Hand', cursive;
+   background-color:#7f6dd6;
+   color:white;
+}
 .container{
     display:flex;
+    width:1200px;
+    height:500px;
 }
 .content{
-    background: green;
+    background: #2673ef;
     color:white;
-    border:10px groove green;
+    border:20px groove #2169dd;
     padding:10px;
+    
 }
 .output{
     
